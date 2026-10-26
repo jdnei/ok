@@ -27,9 +27,13 @@ OKyun 采用国内多线路接入与海外中转相结合的网络架构，全�
 | Premium-280G | 280GB | ¥40 | ¥120 | ¥240 | ¥32 | 专线低延迟；香港、台湾、新加坡、日本、美国 | 全节点支持 AI 服务及流媒体解锁 |
 | Ultimate-800G | 800GB | ¥100 | ¥300 | ¥600 | ¥80 | 专线低延迟；香港、台湾、新加坡、日本、美国 | 全节点支持 AI 服务及流媒体解锁 |
 ## 📊 性能实测与分析
-#### 1.晚高峰测速表现
-![image](?raw=ture)</br>
-#### 2.流媒体解锁报告
-![image](?raw=ture)</br>  
+#### 1.1电信晚高峰测速表现
+![image](https://github.com/jdnei/ok/blob/main/ok/3948752435ctcc.png?raw=ture)</br>
+#### 1.2移动晚高峰测速表现
+![image](https://github.com/jdnei/ok/blob/main/ok/98432798745cmcc2.png?raw=ture)</br>
+#### 2.1AI解锁报告
+![image](https://github.com/jdnei/ok/blob/main/ok/9452094830598ai.png?raw=ture)</br>
+#### 2.2流媒体解锁报告
+![image](https://github.com/jdnei/ok/blob/main/ok/9384528435test.png?raw=ture)</br>
 #### 3.落地入口分析
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/ok/blob/main/ok/4392850934850982ana.png?raw=ture)</br>
