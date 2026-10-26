@@ -14,6 +14,7 @@ OKyun(OK云)机场官网地址</br>
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 邀请码
 ```bash
+JcL9ru2a
 ```
 ## 优惠码
 ```bash
