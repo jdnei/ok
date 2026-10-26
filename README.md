@@ -3,8 +3,9 @@
 OKyun(OK云)机场官网地址</br>
 `PyroCloud老用户可直接登录`</br>
 
-最新地址：[ok云.com](https://www.xn--ok-c72c.com/)</br>
-官方地址：[ok云.com](https://www.xn--ok-c72c.com/)</br>
+最新地址01：[www.okyun1.com](https://www.okyun1.com/cloud/oui/#/register?code=JcL9ru2a)</br>
+最新地址02：[www.okyun2.com](https://www.okyun2.com/cloud/oui/#/register?code=JcL9ru2a)</br>
+官方地址：[www.ok云.com](https://www.xn--ok-c72c.com/)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
