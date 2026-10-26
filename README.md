@@ -1,8 +1,8 @@
 
 # OKyun(OK云)官方地址(2026年10月26日更新)
 OKyun(OK云)官网地址</br>
-最新地址：[https://www.xn--ok-c72c.com/](https://www.xn--ok-c72c.com/)</br>
-官方地址：[https://www.xn--ok-c72c.com/](https://www.xn--ok-c72c.com/)</br>
+最新地址：[ok云.com](https://www.xn--ok-c72c.com/)</br>
+官方地址：[ok云.com](https://www.xn--ok-c72c.com/)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
