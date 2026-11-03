@@ -1,11 +1,13 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
 # OKyun(OK云)机场官方地址(2026年11月3日更新)
 OKyun(OK云)机场官网地址</br>
 `PyroCloud老用户可直接登录`</br>
 
-最新地址01：[www.okyun1.com](https://www.okyun1.com/cloud/oui/#/register?code=JcL9ru2a)</br>
-最新地址02：[www.okyun2.com](https://www.okyun2.com/cloud/oui/#/register?code=JcL9ru2a)</br>
-官方地址：[www.ok云.com](https://www.xn--ok-c72c.com/)</br>
+最新地址01：[www.okyun1.com](https://to.iix.im/ok01)</br>
+最新地址02：[www.okyun2.com](https://to.iix.im/ok02)</br>
+官方地址：[www.ok云.com](https://to.iix.im/ok03)</br>
 `尽量用客户端吧，客户端是专线的，订阅是直连的，订阅的话只适合移动联通，电信晚高峰会差点，没有专门优化`
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
